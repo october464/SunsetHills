@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Code.html" />
+    <Content Include="Content\MyCustom.css" />
     <Content Include="Content\prism.css" />
     <Content Include="Index.html" />
     <Content Include="Scripts\prism.js" />
