@@ -1,0 +1,19 @@
+﻿
+.back {
+    background-image: linear-gradient(to right, gold, yellow);
+}
+.fizz .buzz .fizzbuzz {
+    font-size: x-large;
+}
+
+.fizzbuzz {
+    color: rebeccapurple;
+}
+
+.fizz {
+    color: red;
+}
+
+.buzz {
+    color: seagreen;
+}
